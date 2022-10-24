@@ -1,7 +1,7 @@
 <%-- 
     Document   : register
-    Created on : 6-Mar-2021
-    Author     : Annika Vestre
+    Created on : 24-Oct-2022
+    Author     : Drew Temple-Smith
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
